@@ -5,8 +5,8 @@
 📫 I love to learn, build things, and code.<br>
 📫 I enjoy a good coffee and keep buying new mugs<br>
 ➡️ you can find me on ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)<br><br>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=adniya&show_icons=true&theme=radical">
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adniya&layout=compact">
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=adniya&show_icons=true&theme=radical">
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adniya&layout=compact">
 <h3 margin-top="1rem">Technology</h3>
 <img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
