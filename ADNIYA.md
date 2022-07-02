@@ -4,4 +4,4 @@
 - 💞️ I take on challenges on Frontend Mentor (https://www.frontendmentor.io/home)
 - 📫 I love to learn, build things, and code.
 - 📫 I enjoy a good coffee and keep buying new mugs
-- ➡️ you can find me on ()
+- ➡️ you can find me on (https://www.linkedin.com/in/adniya-yousaf-b39b2b164/)
