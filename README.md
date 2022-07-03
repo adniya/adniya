@@ -4,7 +4,7 @@
 💞️ I take on challenges on Frontend Mentor <a href="https://www.frontendmentor.io/home">Frontend Mentor</a><br><br>
 📫 I love to learn, build things, and code.<br><br>
 📫 I enjoy a good coffee and keep buying new mugs<br><br>
-➡️ you can find me on ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<p>➡️ You can find me on<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></p><br>
 <div align="left" >
 <img width="47%" src="https://github-readme-stats.vercel.app/api?username=adniya&show_icons=true&theme=radical">
 <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adniya&layout=compact"></div>
