@@ -1,9 +1,9 @@
-👋 Hi, I’m @adniya. Please feel free to roam my Github to get to know my road to becoming a Front-end Developer.<br>
-👀 I work on my personal projects.<br>
-🌱 I am very passionate about front-end development and web applications.<br>
-💞️ I take on challenges on Frontend Mentor <a href="https://www.frontendmentor.io/home">Frontend Mentor</a><br>
-📫 I love to learn, build things, and code.<br>
-📫 I enjoy a good coffee and keep buying new mugs<br>
+<h3> Hi, I’m @adniya. Please feel free to roam my Github to get to know my road to becoming a Front-end Developer.</h3><br>
+👀 I work on my personal projects.<br><br>
+🌱 I am very passionate about front-end development and web applications.<br><br>
+💞️ I take on challenges on Frontend Mentor <a href="https://www.frontendmentor.io/home">Frontend Mentor</a><br><br>
+📫 I love to learn, build things, and code.<br><br>
+📫 I enjoy a good coffee and keep buying new mugs<br><br>
 ➡️ you can find me on ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)<br><br>
 <div align="left" >
 <img width="47%" src="https://github-readme-stats.vercel.app/api?username=adniya&show_icons=true&theme=radical">
